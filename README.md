@@ -8,3 +8,7 @@
 - Segundo paso: implementar la fórmulas en JavaScript 
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
+
+## Puntos claves del primer taller
+- console.log(), console.group(), github, code ./ -r
+- atajo ! tab, funcion math de js;
