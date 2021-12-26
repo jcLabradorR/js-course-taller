@@ -1,4 +1,4 @@
-# js-course-taller1
+# js-course-taller
  workshop 1 very basic js course
 
  
