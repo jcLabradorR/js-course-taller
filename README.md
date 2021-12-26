@@ -12,3 +12,4 @@
 ## Puntos claves del primer taller
 - console.log(), console.group(), github, code ./ -r
 - atajo ! tab, funcion math de js;
+- document.getElementById(" ");
