@@ -21,6 +21,17 @@ function perimetroTriangulo(lado1, lado2, base){
 function areaTriangulo(base, altura){
   return  (base * altura) / 2;
 }
+
+//altura de triangulo isoceles
+function alturaIsoceles(a1, a2, b){
+  if(a1 === a2){
+    return Math.sqrt((a1*a2)-((b*b)/4));
+  }else{
+    alert("los lados no son iguales, no es un treiangulo isoceles");
+  } 
+}
+
+alturaIsoceles();
 //console.groupEnd();
 
 //codigo de figura circulo
