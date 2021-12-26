@@ -1,0 +1,12 @@
+.mt-50 {
+    margin-top: 50px !important;
+  }
+
+  .mb-10 {
+    margin-bottom: 10px !important;
+  }
+
+  .figure{
+    max-width: 30%;
+    max-height: 30%;
+  }
