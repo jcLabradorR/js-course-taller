@@ -17,3 +17,19 @@ precioDescuento(120, 15);
 //     porcentajeConDesc,
 //     precioFinal
 // })
+
+function onclickDiscount(){
+    const inputPrice = document.getElementById("inputPrice");
+    const priceValue = inputPrice.value;
+
+    const inputDiscount = document.getElementById("inputDiscount");
+    const discountValue = inputDiscount.value;
+
+    const priceDiscount = precioDescuento(priceValue, discountValue);
+
+    const resultDiv = document.getElementById("ResultDiv");
+    resultDiv.classList.remove("hidden");
+    
+    const resultP = document.getElementById("ResultP");
+    resultP.innerText = "El precio con descuento es: $" + priceDiscount;
+}

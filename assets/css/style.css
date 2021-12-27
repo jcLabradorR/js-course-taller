@@ -1,12 +1,27 @@
 .mt-50 {
-    margin-top: 50px !important;
-  }
+  margin-top: 50px !important;
+}
 
-  .mb-10 {
-    margin-bottom: 10px !important;
-  }
+.mt-20 {
+  margin-top: 20px !important;
+}
 
-  .figure{
-    max-width: 30%;
-    max-height: 30%;
-  }
+.mb-10 {
+  margin-bottom: 10px !important;
+}
+
+.figure {
+  max-width: 100%;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.imagen{
+  width: 200px;
+}
+
+.hidden{
+  visibility: hidden;
+}
+
