@@ -22,4 +22,16 @@
 - Cuarto paso: integrar JS con HTML
 
 ## Puntos claves del taller 2
-- console.log({valores}) como onjeto
+- console.log({valores}) como objeto
+- centrado de un elemento en css
+- remover elementos desde js con classList.remove
+- mostrar testo y resultados con innerText
+
+## Taller #3: promedio, mediana y moda
+
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar la fórmulas en JavaScript 
+- Tercer paso: crear funciones
+
+## Puntos claves del taller 3
+- 
