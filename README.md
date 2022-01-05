@@ -34,4 +34,5 @@
 - Tercer paso: crear funciones
 
 ## Puntos claves del taller 3
-- 
+- funcion reduce() para mostrar arrays
+- funcion  parseInt() para que un numero sea entero

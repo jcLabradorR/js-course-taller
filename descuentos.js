@@ -23,13 +23,13 @@ function onclickDiscount(){
     let cupon = 0;
 
    switch(couponValue) {
-     case coupons[0]: // "JuanDC_es_Batman"
+     case coupons[0]:
      cupon = 2;
      break;
-     case coupons[1]: // "pero_no_le_digas_a_nadie"
+     case coupons[1]:
      cupon = 3;
      break;
-     case coupons[2]: // "es_un_secreto"
+     case coupons[2]:
      cupon = 4;
      break;
    }
