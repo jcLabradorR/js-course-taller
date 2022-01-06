@@ -36,3 +36,6 @@
 ## Puntos claves del taller 3
 - funcion reduce() para mostrar arrays
 - funcion  parseInt() para que un numero sea entero
+- funcion sort() para ordenar los elementos de un array
+- funcion map() para escanear todos los elementos de un array
+- funcion Object.entries() para convertir un objeto en ub array;
